@@ -1,4 +1,4 @@
-const humans = document.getElementById("humans");
+const humans = document.querySelector("#humans");
 
 const options = {
   root: null,

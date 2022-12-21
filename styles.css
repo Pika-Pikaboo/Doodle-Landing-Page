@@ -244,11 +244,11 @@ span {
   position: relative;
   max-width: 100%;
   transform: translateY(300px) scale(1);
-  transition: all 0.2s ease-out;
+  transition: all 2s ease-out;
 }
 
 .enlarge {
-  transform: scale(2);
+  transform: translateY(300px) scale(2);
   /* max-width: 550px; */
 }
 
